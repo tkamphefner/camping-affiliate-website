@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": "B00J0DR9R4",
+      "name": "Coleman Sundome Tent",
+      "category": "tents",
+      "price": 99.99,
+      "rating": 4.5,
+      "description": "The Coleman Sundome Tent is a spacious and easy-to-set-up camping tent perfect for family outings and weekend adventures.",
+      "features": [
+        "Sleeps 4 people comfortably",
+        "WeatherTec system with patented welded floors",
+        "Large windows for ventilation",
+        "10-minute setup time",
+        "Measures 9 x 7 feet with 4-foot 11-inch center height"
+      ],
+      "pros": [
+        "Easy to set up",
+        "Affordable price point",
+        "Good ventilation",
+        "Sturdy in moderate wind",
+        "Waterproof floor"
+      ],
+      "cons": [
+        "Not ideal for extreme weather",
+        "Limited headroom",
+        "Fiberglass poles may wear over time"
+      ],
+      "image": "images/tent-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B00J0DR9R4/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B00OBFXHYG",
+      "name": "Osprey Atmos AG 65",
+      "category": "hiking-gear",
+      "price": 270.00,
+      "rating": 5.0,
+      "description": "The Osprey Atmos AG 65 is a premium backpack with Anti-Gravity suspension that feels like you're carrying less weight than is actually in your pack.",
+      "features": [
+        "Anti-Gravity suspension system",
+        "65-liter capacity",
+        "Adjustable harness and hip belt",
+        "Integrated rain cover",
+        "Multiple access points and pockets"
+      ],
+      "pros": [
+        "Exceptional comfort with weight distribution",
+        "Highly adjustable for perfect fit",
+        "Excellent ventilation",
+        "Durable construction",
+        "Thoughtful organization features"
+      ],
+      "cons": [
+        "Premium price point",
+        "Slightly heavier than ultralight options",
+        "May be too feature-rich for minimalists"
+      ],
+      "image": "images/backpack-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B00OBFXHYG/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B01N5O7551",
+      "name": "MSR PocketRocket 2",
+      "category": "cooking-gear",
+      "price": 44.95,
+      "rating": 4.0,
+      "description": "The MSR PocketRocket 2 is an ultralight backpacking stove that boils water quickly and efficiently, making it perfect for minimalist campers and hikers.",
+      "features": [
+        "Weighs only 2.6 oz",
+        "Boils 1 liter of water in 3.5 minutes",
+        "Compact folding design",
+        "Adjustable flame control",
+        "Works with most screw-top fuel canisters"
+      ],
+      "pros": [
+        "Extremely lightweight and compact",
+        "Fast boiling time",
+        "Easy to use and maintain",
+        "Reliable ignition",
+        "Good simmer control"
+      ],
+      "cons": [
+        "No built-in igniter",
+        "Less stable with larger pots",
+        "Performance decreases in windy conditions"
+      ],
+      "image": "images/stove-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B01N5O7551/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B01JIWQPMW",
+      "name": "Anker PowerCore 26800",
+      "category": "camping-electronics",
+      "price": 69.99,
+      "rating": 4.5,
+      "description": "The Anker PowerCore 26800 is a high-capacity portable charger that can keep your devices powered throughout your camping trip.",
+      "features": [
+        "26800mAh capacity",
+        "3 USB output ports",
+        "Recharges in 6 hours with included dual microUSB cables",
+        "PowerIQ and VoltageBoost technology",
+        "Compact and portable design"
+      ],
+      "pros": [
+        "Enormous battery capacity",
+        "Can charge multiple devices simultaneously",
+        "Fast charging capability",
+        "Durable construction",
+        "Reliable performance"
+      ],
+      "cons": [
+        "Heavier than smaller capacity options",
+        "Takes time to fully recharge",
+        "No USB-C input/output"
+      ],
+      "image": "images/powerbank-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B01JIWQPMW/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B07RLXZ3LS",
+      "name": "Kelty Cosmic 20 Sleeping Bag",
+      "category": "sleeping-gear",
+      "price": 169.95,
+      "rating": 4.3,
+      "description": "The Kelty Cosmic 20 is a comfortable, warm sleeping bag that's perfect for three-season camping and backpacking trips.",
+      "features": [
+        "20°F temperature rating",
+        "600 fill power DriDown insulation",
+        "Mummy shape for thermal efficiency",
+        "Draft collar and hood",
+        "Stuff sack included"
+      ],
+      "pros": [
+        "Excellent warmth-to-weight ratio",
+        "Water-resistant down fill",
+        "Comfortable fit",
+        "Compresses well for backpacking",
+        "Good value for the quality"
+      ],
+      "cons": [
+        "Slightly heavy for ultralight backpacking",
+        "Zipper can snag occasionally",
+        "May be too warm for summer camping"
+      ],
+      "image": "images/sleepingbag-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07RLXZ3LS/ref=nosim?tag=kamphefner-20"
+    }
+  ]
+}

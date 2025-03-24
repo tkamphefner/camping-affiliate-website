@@ -1,0 +1,33 @@
+{
+  "name": "camping-affiliate-website",
+  "version": "1.0.0",
+  "description": "A hyper-targeted Amazon affiliate website focused on camping supplies",
+  "main": "js/server.js",
+  "scripts": {
+    "start": "node js/server.js",
+    "dev": "nodemon js/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkamphefner/camping-affiliate-website.git"
+  },
+  "keywords": [
+    "camping",
+    "affiliate",
+    "amazon",
+    "outdoor",
+    "gear"
+  ],
+  "author": "Camping Affiliate Hub",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "nodemailer": "^6.9.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

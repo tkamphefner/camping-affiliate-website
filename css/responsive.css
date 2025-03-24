@@ -1,0 +1,125 @@
+/* 
+ * Camping Affiliate Hub - Responsive Stylesheet
+ * Author: Manus AI
+ * Version: 1.0
+ */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+  
+  .hero h1 {
+    font-size: 2.75rem;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+  
+  .mobile-menu-btn {
+    display: none;
+  }
+  
+  nav ul {
+    display: flex !important;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.25rem;
+  }
+  
+  .header-container {
+    flex-direction: row;
+  }
+  
+  .product-header {
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .pros-cons {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+  
+  .hero {
+    padding: 6rem 1rem;
+  }
+  
+  .hero h1 {
+    font-size: 3.5rem;
+  }
+  
+  .categories-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+  
+  .hero {
+    padding: 7rem 1rem;
+  }
+  
+  .hero h1 {
+    font-size: 4rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  header, footer, .cta, .newsletter, .related-products {
+    display: none;
+  }
+  
+  body {
+    font-size: 12pt;
+    line-height: 1.5;
+    color: #000;
+    background: #fff;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+  
+  .container {
+    max-width: 100%;
+    width: 100%;
+  }
+  
+  .product-header {
+    grid-template-columns: 1fr;
+  }
+  
+  .product-gallery {
+    margin-bottom: 2rem;
+  }
+  
+  .product-features ul {
+    page-break-inside: avoid;
+  }
+  
+  .pros-cons {
+    grid-template-columns: 1fr;
+  }
+}
