@@ -144,6 +144,151 @@
       ],
       "image": "images/sleepingbag-product.jpg",
       "affiliateLink": "https://www.amazon.com/dp/B07RLXZ3LS/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B000IZCJDK",
+      "name": "Helinox Chair One",
+      "category": "camping-furniture",
+      "price": 109.95,
+      "rating": 4.7,
+      "description": "The Helinox Chair One is an ultralight, portable camping chair that offers exceptional comfort and durability in a compact package.",
+      "features": [
+        "Weighs only 2 lbs",
+        "Supports up to 320 lbs",
+        "Sets up in seconds",
+        "Durable aluminum frame",
+        "Includes carrying case"
+      ],
+      "pros": [
+        "Incredibly lightweight and portable",
+        "Surprisingly comfortable for its size",
+        "Quick and easy setup",
+        "Durable construction",
+        "Versatile for camping, festivals, and beach trips"
+      ],
+      "cons": [
+        "Premium price point",
+        "Sits low to the ground",
+        "Can sink in soft surfaces"
+      ],
+      "image": "images/chair-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B000IZCJDK/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B08DG7ZZ8Z",
+      "name": "BioLite AlpenGlow 500",
+      "category": "lights-lanterns",
+      "price": 79.95,
+      "rating": 4.6,
+      "description": "The BioLite AlpenGlow 500 is a rechargeable lantern that provides 500 lumens of customizable lighting for your campsite.",
+      "features": [
+        "500 lumens of adjustable light",
+        "Multiple lighting modes including warm-to-cool white and special effects",
+        "6400 mAh rechargeable battery",
+        "USB-C charging port",
+        "Water-resistant design"
+      ],
+      "pros": [
+        "Versatile lighting options",
+        "Long battery life (up to 200 hours on low)",
+        "Can charge other devices",
+        "Durable construction",
+        "Intuitive controls"
+      ],
+      "cons": [
+        "Higher price than basic lanterns",
+        "Heavier than some alternatives",
+        "Charging cable not included"
+      ],
+      "image": "images/lantern-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B08DG7ZZ8Z/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B01G7SQCCS",
+      "name": "LifeStraw Personal Water Filter",
+      "category": "water-filtration",
+      "price": 19.95,
+      "rating": 4.8,
+      "description": "The LifeStraw Personal Water Filter allows you to drink directly from streams and lakes, removing 99.999999% of waterborne bacteria and parasites.",
+      "features": [
+        "Filters up to 1,000 gallons of water",
+        "Removes 99.999999% of waterborne bacteria and 99.999% of parasites",
+        "No batteries or moving parts required",
+        "Weighs only 2 ounces",
+        "BPA-free materials"
+      ],
+      "pros": [
+        "Lightweight and portable",
+        "No chemicals or aftertaste",
+        "Long lifespan",
+        "Affordable price point",
+        "Essential emergency item"
+      ],
+      "cons": [
+        "Doesn't filter viruses",
+        "Requires strong suction",
+        "Doesn't store water"
+      ],
+      "image": "images/waterfiltration-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B01G7SQCCS/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B005188T90",
+      "name": "GSI Outdoors Pinnacle Camper Cookset",
+      "category": "camping-cookware",
+      "price": 149.95,
+      "rating": 4.5,
+      "description": "The GSI Outdoors Pinnacle Camper Cookset is a comprehensive cooking solution for groups, featuring non-stick pots, pans, mugs, and plates in a compact package.",
+      "features": [
+        "Complete cookset for 4 people",
+        "Includes 2L pot, 3L pot, frying pan, strainer lid, 4 mugs, 4 plates, and 4 bowls",
+        "Teflon Radiance non-stick coating",
+        "Color-coded personal items",
+        "Nests together for compact storage"
+      ],
+      "pros": [
+        "Comprehensive cooking solution",
+        "Excellent non-stick performance",
+        "Space-efficient design",
+        "Durable construction",
+        "Easy to clean"
+      ],
+      "cons": [
+        "Premium price point",
+        "Plastic components may not be as durable",
+        "Heavier than minimalist options"
+      ],
+      "image": "images/cookware-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B005188T90/ref=nosim?tag=kamphefner-20"
+    },
+    {
+      "id": "B07VFMGC93",
+      "name": "Nemo Stargaze Recliner Luxury Chair",
+      "category": "camping-furniture",
+      "price": 249.95,
+      "rating": 4.6,
+      "description": "The Nemo Stargaze Recliner Luxury Chair is a first-of-its-kind swinging and reclining camp chair that offers unparalleled comfort at the campsite.",
+      "features": [
+        "Auto-reclining mechanism",
+        "Suspended swinging design",
+        "Aircraft-grade aluminum frame",
+        "Padded headrest and armrests",
+        "Integrated cup holder and stash pocket"
+      ],
+      "pros": [
+        "Unique swinging and reclining functionality",
+        "Exceptional comfort",
+        "Works on any terrain",
+        "Durable materials",
+        "Includes carrying case"
+      ],
+      "cons": [
+        "Expensive compared to standard camp chairs",
+        "Heavier than ultralight options (6.5 lbs)",
+        "Setup requires some practice"
+      ],
+      "image": "images/recliner-product.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07VFMGC93/ref=nosim?tag=kamphefner-20"
     }
   ]
 }

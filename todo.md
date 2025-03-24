@@ -7,7 +7,8 @@
 - [x] Frontend Implementation: Created main pages (index, about, contact)
 - [x] Backend Implementation: Implemented Express server with API endpoints
 - [x] Amazon Affiliate Integration: Created utility functions and integrated in category/product pages
-- [ ] Testing: Not started
+- [x] Additional Product Categories: Added furniture, lights, water filtration, and cookware
+- [ ] Testing: In progress
 - [ ] Deployment: Not started
 
 ## Next Steps
@@ -26,6 +27,8 @@
 - [x] Develop affiliate link utility functions (affiliate.js)
 - [x] Create product listing and review templates
 - [x] Integrate Amazon affiliate links throughout the site
+- [x] Add new product categories (furniture, lights, water filtration, cookware)
+- [x] Create category pages for new product categories
 - [ ] Test on multiple devices
 - [ ] Push changes to GitHub
 - [ ] Deploy to Vercel
