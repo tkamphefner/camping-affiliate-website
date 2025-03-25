@@ -1,119 +1,236 @@
 {
   "products": [
     {
-      "id": "coleman-sundome-tent",
-      "name": "Coleman 4-Person Camping Tent Sundome",
+      "id": "wakeman-2-person-tent",
+      "name": "Wakeman 2-Person Camping Tent with Rain Fly",
       "category": "tents",
-      "price": 79.99,
-      "rating": 4.5,
-      "image": "/images/products/coleman-sundome-tent.jpg",
-      "description": "Easy setup, weatherproof design with large windows for superior ventilation.",
-      "affiliateLink": "https://www.amazon.com/Coleman-4-Person-Camping-Sundome-Setup/dp/B019N9W7WC?linkCode=ll1&tag=kamphefner-20&linkId=588a7b3335a51b84b7a9ac9ed6f4b68c&language=en_US&ref_=as_li_ss_tl",
+      "price": 20.08,
+      "rating": 4.2,
+      "image": "/images/products/wakeman-2-person-tent.jpeg",
+      "description": "Lightweight outdoor tent for backpacking, hiking, or beach use with easy setup.",
+      "affiliateLink": "https://www.amazon.com/Person-Camping-Tent-Rain-Carrying/dp/B0050P22VK?linkCode=ll1&tag=kamphefner-20&linkId=bd0f81c95318d4f1157729e8fdf16258&language=en_US&ref_=as_li_ss_tl",
       "features": [
-        "Fits 4 people or 1 queen air mattress",
-        "10-minute setup",
-        "WeatherTec system with patented welded floors",
-        "Large windows for ventilation",
-        "Storage pockets to keep gear organized"
+        "Includes tent, rain fly, and carrying bag",
+        "Lightweight and portable design",
+        "Quick and easy setup",
+        "Waterproof construction",
+        "Mesh ventilation panels"
       ],
       "pros": [
-        "Easy to set up",
+        "Very affordable price",
+        "Lightweight and easy to carry",
+        "Simple setup process",
         "Good ventilation",
-        "Affordable price",
-        "Durable construction",
-        "Weatherproof design"
+        "Compact when packed"
       ],
       "cons": [
-        "Not ideal for extreme weather",
-        "Limited headroom",
-        "Basic features only"
+        "Limited interior space",
+        "Not for extreme weather conditions",
+        "Basic features only",
+        "Limited headroom"
       ]
     },
     {
-      "id": "msr-pocketrocket-stove",
-      "name": "MSR PocketRocket 2 Stove",
-      "category": "cooking",
-      "price": 49.95,
-      "rating": 4.8,
-      "image": "/images/products/msr-pocketrocket-stove.jpg",
-      "description": "Ultralight, fast-boiling backpacking stove for minimalist adventures.",
-      "affiliateLink": "https://www.amazon.com/MSR-PocketRocket-Ultralight-Backpacking-Camping/dp/B01N5O7551?th=1&linkCode=ll1&tag=kamphefner-20&linkId=d749f05629a6a73f33df2a300f4983fd&language=en_US&ref_=as_li_ss_tl",
+      "id": "wakeman-privacy-pod",
+      "name": "Wakeman Pop Up Privacy Shower Tent",
+      "category": "shelters",
+      "price": 33.24,
+      "rating": 4.3,
+      "image": "/images/products/wakeman-privacy-pod.jpeg",
+      "description": "Portable privacy pod for camping showers, changing rooms, or portable toilet stalls.",
+      "affiliateLink": "https://www.amazon.com/Portable-Changing-Collapsible-Wakeman-Outdoors/dp/B07WWYQS7B?linkCode=ll1&tag=kamphefner-20&linkId=db12a5f56248f5420f5d1236207d6f80&language=en_US&ref_=as_li_ss_tl",
       "features": [
-        "Weighs only 2.6 oz",
-        "Boils 1 liter of water in 3.5 minutes",
-        "Precision flame control",
-        "WindClip windshield",
-        "Folds incredibly small"
-      ],
-      "pros": [
-        "Ultralight and compact",
-        "Fast boiling time",
-        "Excellent flame control",
-        "Durable construction",
-        "Fuel efficient"
-      ],
-      "cons": [
-        "No built-in igniter",
-        "Requires flat surface",
-        "Fuel canister sold separately"
-      ]
-    },
-    {
-      "id": "thermarest-neoair-xlite",
-      "name": "Therm-a-Rest NeoAir XLite Sleeping Pad",
-      "category": "sleeping-gear",
-      "price": 159.95,
-      "rating": 4.7,
-      "image": "/images/products/thermarest-neoair-xlite.jpg",
-      "description": "Ultralight, warm and comfortable sleeping pad for backpacking adventures.",
-      "affiliateLink": "https://www.amazon.com/Therm-Rest-Ultralight-Backpacking-Mountaineering/dp/B00PZL14EK?th=1&linkCode=ll1&tag=kamphefner-20&linkId=166ce052c8e93ea0d3dde5e11355c923&language=en_US&ref_=as_li_ss_tl",
-      "features": [
-        "Weighs only 12 oz",
-        "R-value of 4.2 for 4-season warmth",
-        "2.5 inches of cushioning",
-        "ThermaCapture technology reflects body heat",
-        "Triangular Core Matrix structure"
-      ],
-      "pros": [
-        "Extremely lightweight",
-        "Excellent warmth-to-weight ratio",
-        "Comfortable cushioning",
-        "Packs down small",
-        "Durable materials"
-      ],
-      "cons": [
-        "Crinkly noise when moving",
-        "Expensive",
-        "Requires careful handling"
-      ]
-    },
-    {
-      "id": "core-9-person-cabin-tent",
-      "name": "CORE 9-Person Instant Cabin Tent",
-      "category": "tents",
-      "price": 199.99,
-      "rating": 4.6,
-      "image": "/images/products/core-9-person-cabin-tent.jpg",
-      "description": "Spacious cabin tent with room divider and 60-second setup for family camping.",
-      "affiliateLink": "https://www.amazon.com/CORE-9-Person-Instant-Cabin-Tent/dp/B00VFH1RQS?th=1&linkCode=ll1&tag=kamphefner-20&linkId=136630b1ed55d821b109c70cc358bddf&language=en_US&ref_=as_li_ss_tl",
-      "features": [
-        "Fits 9 people or 2 queen air mattresses",
-        "60-second setup",
-        "Room divider for privacy",
-        "Adjustable ground vent",
-        "H2O Block Technology"
+        "39\"L x 39\"W x 74\"H dimensions",
+        "Collapsible pop-up design",
+        "Includes carrying bag",
+        "Water-resistant material",
+        "Zippered door for privacy"
       ],
       "pros": [
         "Quick and easy setup",
-        "Spacious interior with 78\" center height",
-        "Good ventilation",
-        "Electrical cord access port",
-        "Includes rainfly for weather protection"
+        "Lightweight and portable",
+        "Versatile for multiple uses",
+        "Good height for standing",
+        "Affordable price"
       ],
       "cons": [
-        "Heavy (35 lbs)",
-        "Large packed size",
-        "May need additional waterproofing"
+        "Can be challenging to fold back up",
+        "May lean in windy conditions",
+        "Carrying bag zipper could be stronger"
+      ]
+    },
+    {
+      "id": "bolosy-camping-loveseat",
+      "name": "Bolosy 2-Person Camping Chair Loveseat",
+      "category": "furniture",
+      "price": 67.99,
+      "rating": 4.7,
+      "image": "/images/products/bolosy-camping-loveseat.jpeg",
+      "description": "Oversized double folding camping chair with heavy duty construction for two people.",
+      "affiliateLink": "https://www.amazon.com/Bolosy-Camping-Loveseat-Oversized-Folding/dp/B0DDQ9P4G5?linkCode=ll1&tag=kamphefner-20&linkId=8c306b898b1c5ebaf0564a6b4b9bceeb&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "650 lb weight capacity",
+        "Two cup holders and side storage pockets",
+        "Sturdy steel frame construction",
+        "Includes carrying bag with handle",
+        "Two separate seats in loveseat design"
+      ],
+      "pros": [
+        "Comfortable for two people",
+        "Sturdy and durable construction",
+        "Convenient storage pockets",
+        "Easy to set up and fold",
+        "Good value for price"
+      ],
+      "cons": [
+        "Heavier than single chairs",
+        "Carrying bag material is thin",
+        "Takes up more space than individual chairs"
+      ]
+    },
+    {
+      "id": "purebox-camping-tent",
+      "name": "Purebox 3-4 Person Camping Tent",
+      "category": "tents",
+      "price": 67.99,
+      "rating": 5.0,
+      "image": "/images/products/purebox-camping-tent.jpeg",
+      "description": "100% waterproof outdoor dome tent with easy setup for adventures and festivals.",
+      "affiliateLink": "https://www.amazon.com/Purebox-Waterproof-Backpacking-Adventure-Festivals/dp/B0DQ7GV7WM?linkCode=ll1&tag=kamphefner-20&linkId=654b2afb81767b3a336c6678afc9d5b2&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "84\"L x 84\"W x 51\"H dimensions",
+        "10-minute setup time",
+        "Three-sided ventilation windows",
+        "Waterproof and quick-drying design",
+        "Includes tent, ropes, nails, bag, and manual"
+      ],
+      "pros": [
+        "Excellent waterproofing",
+        "Good ventilation system",
+        "Spacious interior for 3 people",
+        "Easy setup process",
+        "Durable fiberglass construction"
+      ],
+      "cons": [
+        "Might be snug for 4 adults",
+        "Limited vestibule space",
+        "Only one door"
+      ]
+    },
+    {
+      "id": "core-6-person-cabin-tent",
+      "name": "CORE 6 Person Instant Cabin Tent",
+      "category": "tents",
+      "price": 169.99,
+      "rating": 4.5,
+      "image": "/images/products/core-6-person-cabin-tent.jpeg",
+      "description": "Portable large pop-up tent with 60-second setup for family camping with hanging organizer.",
+      "affiliateLink": "https://www.amazon.com/CORE-Person-Instant-Cabin-Organizer/dp/B08CJJRHH6?linkCode=ll1&tag=kamphefner-20&linkId=979dbd85af0d29e8c766ea748352aed3&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "60-second setup",
+        "Fits 6 people or 2 queen air mattresses",
+        "Included hanging organizer for accessories",
+        "Multiple windows and mesh ceiling",
+        "Water-resistant design with sealed seams"
+      ],
+      "pros": [
+        "Incredibly fast setup",
+        "Spacious interior with good headroom",
+        "Excellent ventilation options",
+        "Convenient storage solutions",
+        "Durable construction"
+      ],
+      "cons": [
+        "Heavier than backpacking tents",
+        "Rainfly doesn't cover entire tent in heavy rain",
+        "Bulky when packed"
+      ]
+    },
+    {
+      "id": "coleman-evanston-tent",
+      "name": "Coleman Evanston 6-Person Screened Tent",
+      "category": "tents",
+      "price": 121.50,
+      "rating": 4.6,
+      "image": "/images/products/coleman-evanston-tent.jpeg",
+      "description": "Weatherproof tent with roomy interior and screened-in porch for bug-free relaxation.",
+      "affiliateLink": "https://www.amazon.com/Coleman-6-Person-Evanston-Camping-Screened/dp/B004E4AW1K?linkCode=ll1&tag=kamphefner-20&linkId=6c50add6457dddb3a6290a6e486ca4a5&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "Fits 6 people or 2 queen air mattresses",
+        "Screened porch area for bug-free lounging",
+        "WeatherTec system with welded floors",
+        "Included rainfly for weather protection",
+        "Easy setup with continuous pole sleeves"
+      ],
+      "pros": [
+        "Screened porch provides extra living space",
+        "Good ventilation throughout",
+        "Reliable weather protection",
+        "Spacious interior",
+        "Durable construction"
+      ],
+      "cons": [
+        "Porch floor not fully waterproof",
+        "Heavier than backpacking tents (20.9 lbs)",
+        "Rainfly doesn't cover porch completely"
+      ]
+    },
+    {
+      "id": "coleman-skydome-tent",
+      "name": "Coleman Skydome 4-Person Tent",
+      "category": "tents",
+      "price": 59.99,
+      "rating": 4.5,
+      "image": "/images/products/coleman-skydome-tent.jpeg",
+      "description": "Innovative tent with 5-minute setup and 20% more headroom than traditional designs.",
+      "affiliateLink": "https://www.amazon.com/Coleman-Skydome-4-Person-Tent-Nights/dp/B0D7QG9H85?linkCode=ll1&tag=kamphefner-20&linkId=1ba0fd8a87c05f9a7b22f12929da70a8&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "5-minute setup",
+        "20% more headroom than traditional tents",
+        "WeatherTec system with welded corners",
+        "Included rainfly for weather protection",
+        "Storage pockets and gear loft"
+      ],
+      "pros": [
+        "More headroom than typical dome tents",
+        "Quick and easy setup",
+        "Good weather protection",
+        "Sturdy structure",
+        "Convenient storage options"
+      ],
+      "cons": [
+        "Limited vestibule space",
+        "Not for extreme weather",
+        "Rainfly could be more comprehensive"
+      ]
+    },
+    {
+      "id": "unp-2-person-tent",
+      "name": "UNP 2-Person Camping Tent",
+      "category": "tents",
+      "price": 39.99,
+      "rating": 4.5,
+      "image": "/images/products/unp-2-person-tent.jpeg",
+      "description": "Waterproof windproof tent with rainfly and easy setup for camping adventures.",
+      "affiliateLink": "https://www.amazon.com/unp-Person-Grey-Lightweight-Portable-Dome-Waterproof-Ideal-Activities/dp/B08HH1YFHS?linkCode=ll1&tag=kamphefner-20&linkId=7be34b762a17ed689977f1cf154e2a95&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "Waterproof and windproof design",
+        "Mesh roof and windows for ventilation",
+        "Included rainfly for weather protection",
+        "Interior storage pocket",
+        "Easy setup with color-coded poles"
+      ],
+      "pros": [
+        "Excellent ventilation",
+        "Good weather resistance",
+        "Lightweight and portable",
+        "Easy setup even for beginners",
+        "Great value for money"
+      ],
+      "cons": [
+        "Snug for two large adults",
+        "Limited headroom",
+        "Basic features only"
       ]
     },
     {
@@ -172,122 +289,6 @@
         "Requires sunlight to charge",
         "Limited brightness",
         "Inflation required before use"
-      ]
-    },
-    {
-      "id": "consciot-led-camping-lantern",
-      "name": "Consciot Dimmable LED Camping Lantern",
-      "category": "lighting",
-      "price": 39.99,
-      "rating": 4.6,
-      "image": "/images/products/consciot-led-lantern.jpg",
-      "description": "Water-resistant rechargeable lantern with 360° illumination and power bank function.",
-      "affiliateLink": "https://www.amazon.com/Consciot-Dimmable-Water-Resistant-Flashlight-Emergency/dp/B082HD5JDH?linkCode=ll1&tag=kamphefner-20&linkId=46b5adf1bbec2a2a165c69b514befe97&language=en_US&ref_=as_li_ss_tl",
-      "features": [
-        "360° illumination",
-        "USB rechargeable",
-        "Power bank function",
-        "Water resistant",
-        "4 lighting modes"
-      ],
-      "pros": [
-        "Bright, adjustable lighting",
-        "Rechargeable battery",
-        "Can charge phones in emergencies",
-        "Durable construction",
-        "Long runtime"
-      ],
-      "cons": [
-        "Heavier than some options",
-        "Limited water resistance (not fully waterproof)",
-        "Charging time could be faster"
-      ]
-    },
-    {
-      "id": "coleman-6-person-evanston-tent",
-      "name": "Coleman 6-Person Evanston Camping Tent",
-      "category": "tents",
-      "price": 149.99,
-      "rating": 4.4,
-      "image": "/images/products/coleman-evanston-tent.jpg",
-      "description": "Spacious tent with screened porch area for bug-free lounging and storage.",
-      "affiliateLink": "https://www.amazon.com/Coleman-6-Person-Evanston-Camping-Screened/dp/B004E4AW1K?linkCode=ll1&tag=kamphefner-20&linkId=6c50add6457dddb3a6290a6e486ca4a5&language=en_US&ref_=as_li_ss_tl",
-      "features": [
-        "Fits 6 people or 2 queen air mattresses",
-        "Screened porch area",
-        "WeatherTec system with welded floors",
-        "10 x 9 ft. main room with 5 x 4 ft. porch",
-        "15-minute setup"
-      ],
-      "pros": [
-        "Screened porch for bug-free relaxing",
-        "Good ventilation",
-        "Reliable weather protection",
-        "Spacious interior",
-        "Reasonable price"
-      ],
-      "cons": [
-        "Porch floor not waterproof",
-        "Heavier than backpacking tents",
-        "Rainfly doesn't cover porch completely"
-      ]
-    },
-    {
-      "id": "coleman-skydome-4-person-tent",
-      "name": "Coleman Skydome 4-Person Tent",
-      "category": "tents",
-      "price": 99.99,
-      "rating": 4.5,
-      "image": "/images/products/coleman-skydome-tent.jpg",
-      "description": "Innovative tent design with 20% more headroom and quick 5-minute setup.",
-      "affiliateLink": "https://www.amazon.com/Coleman-Skydome-4-Person-Tent-Nights/dp/B0D7QG9H85?linkCode=ll1&tag=kamphefner-20&linkId=1ba0fd8a87c05f9a7b22f12929da70a8&language=en_US&ref_=as_li_ss_tl",
-      "features": [
-        "Fits 4 people or 1 queen air mattress",
-        "5-minute setup",
-        "20% more headroom than traditional Coleman tents",
-        "WeatherTec system with welded corners",
-        "Storage pockets and gear loft"
-      ],
-      "pros": [
-        "More headroom than typical dome tents",
-        "Quick and easy setup",
-        "Good weather protection",
-        "Sturdy structure",
-        "Convenient storage options"
-      ],
-      "cons": [
-        "Limited vestibule space",
-        "Not for extreme weather",
-        "Rainfly could be more comprehensive"
-      ]
-    },
-    {
-      "id": "unp-6-person-dome-tent",
-      "name": "UNP 6-Person Dome Tent",
-      "category": "tents",
-      "price": 119.99,
-      "rating": 4.3,
-      "image": "/images/products/unp-dome-tent.jpg",
-      "description": "Lightweight, portable dome tent with excellent ventilation for family camping.",
-      "affiliateLink": "https://www.amazon.com/unp-Person-Grey-Lightweight-Portable-Dome-Waterproof-Ideal-Activities/dp/B08HH1YFHS?linkCode=ll1&tag=kamphefner-20&linkId=7be34b762a17ed689977f1cf154e2a95&language=en_US&ref_=as_li_ss_tl",
-      "features": [
-        "Fits 6 people",
-        "Mesh roof design for ventilation",
-        "Waterproof construction",
-        "Electrical cord port",
-        "Interior storage pockets"
-      ],
-      "pros": [
-        "Excellent ventilation",
-        "Relatively lightweight for size",
-        "Good value for money",
-        "Easy setup",
-        "Includes carry bag"
-      ],
-      "cons": [
-        "Less durable than premium brands",
-        "Limited color options",
-        "Stakes could be stronger"
       ]
     }
   ]
