@@ -1,294 +1,294 @@
 {
   "products": [
     {
-      "id": "B00J0DR9R4",
-      "name": "Coleman Sundome Tent",
+      "id": "coleman-sundome-tent",
+      "name": "Coleman 4-Person Camping Tent Sundome",
       "category": "tents",
-      "price": 99.99,
+      "price": 79.99,
       "rating": 4.5,
-      "description": "The Coleman Sundome Tent is a spacious and easy-to-set-up camping tent perfect for family outings and weekend adventures.",
+      "image": "/images/products/coleman-sundome-tent.jpg",
+      "description": "Easy setup, weatherproof design with large windows for superior ventilation.",
+      "affiliateLink": "https://www.amazon.com/Coleman-4-Person-Camping-Sundome-Setup/dp/B019N9W7WC?linkCode=ll1&tag=kamphefner-20&linkId=588a7b3335a51b84b7a9ac9ed6f4b68c&language=en_US&ref_=as_li_ss_tl",
       "features": [
-        "Sleeps 4 people comfortably",
+        "Fits 4 people or 1 queen air mattress",
+        "10-minute setup",
         "WeatherTec system with patented welded floors",
         "Large windows for ventilation",
-        "10-minute setup time",
-        "Measures 9 x 7 feet with 4-foot 11-inch center height"
+        "Storage pockets to keep gear organized"
       ],
       "pros": [
         "Easy to set up",
-        "Affordable price point",
         "Good ventilation",
-        "Sturdy in moderate wind",
-        "Waterproof floor"
+        "Affordable price",
+        "Durable construction",
+        "Weatherproof design"
       ],
       "cons": [
         "Not ideal for extreme weather",
         "Limited headroom",
-        "Fiberglass poles may wear over time"
-      ],
-      "image": "images/tent-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B00J0DR9R4/ref=nosim?tag=kamphefner-20"
+        "Basic features only"
+      ]
     },
     {
-      "id": "B00OBFXHYG",
-      "name": "Osprey Atmos AG 65",
-      "category": "hiking-gear",
-      "price": 270.00,
-      "rating": 5.0,
-      "description": "The Osprey Atmos AG 65 is a premium backpack with Anti-Gravity suspension that feels like you're carrying less weight than is actually in your pack.",
-      "features": [
-        "Anti-Gravity suspension system",
-        "65-liter capacity",
-        "Adjustable harness and hip belt",
-        "Integrated rain cover",
-        "Multiple access points and pockets"
-      ],
-      "pros": [
-        "Exceptional comfort with weight distribution",
-        "Highly adjustable for perfect fit",
-        "Excellent ventilation",
-        "Durable construction",
-        "Thoughtful organization features"
-      ],
-      "cons": [
-        "Premium price point",
-        "Slightly heavier than ultralight options",
-        "May be too feature-rich for minimalists"
-      ],
-      "image": "images/backpack-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B00OBFXHYG/ref=nosim?tag=kamphefner-20"
-    },
-    {
-      "id": "B01N5O7551",
-      "name": "MSR PocketRocket 2",
-      "category": "cooking-gear",
-      "price": 44.95,
-      "rating": 4.0,
-      "description": "The MSR PocketRocket 2 is an ultralight backpacking stove that boils water quickly and efficiently, making it perfect for minimalist campers and hikers.",
+      "id": "msr-pocketrocket-stove",
+      "name": "MSR PocketRocket 2 Stove",
+      "category": "cooking",
+      "price": 49.95,
+      "rating": 4.8,
+      "image": "/images/products/msr-pocketrocket-stove.jpg",
+      "description": "Ultralight, fast-boiling backpacking stove for minimalist adventures.",
+      "affiliateLink": "https://www.amazon.com/MSR-PocketRocket-Ultralight-Backpacking-Camping/dp/B01N5O7551?th=1&linkCode=ll1&tag=kamphefner-20&linkId=d749f05629a6a73f33df2a300f4983fd&language=en_US&ref_=as_li_ss_tl",
       "features": [
         "Weighs only 2.6 oz",
         "Boils 1 liter of water in 3.5 minutes",
-        "Compact folding design",
-        "Adjustable flame control",
-        "Works with most screw-top fuel canisters"
+        "Precision flame control",
+        "WindClip windshield",
+        "Folds incredibly small"
       ],
       "pros": [
-        "Extremely lightweight and compact",
+        "Ultralight and compact",
         "Fast boiling time",
-        "Easy to use and maintain",
-        "Reliable ignition",
-        "Good simmer control"
+        "Excellent flame control",
+        "Durable construction",
+        "Fuel efficient"
       ],
       "cons": [
         "No built-in igniter",
-        "Less stable with larger pots",
-        "Performance decreases in windy conditions"
-      ],
-      "image": "images/stove-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B01N5O7551/ref=nosim?tag=kamphefner-20"
+        "Requires flat surface",
+        "Fuel canister sold separately"
+      ]
     },
     {
-      "id": "B01JIWQPMW",
-      "name": "Anker PowerCore 26800",
-      "category": "camping-electronics",
-      "price": 69.99,
-      "rating": 4.5,
-      "description": "The Anker PowerCore 26800 is a high-capacity portable charger that can keep your devices powered throughout your camping trip.",
-      "features": [
-        "26800mAh capacity",
-        "3 USB output ports",
-        "Recharges in 6 hours with included dual microUSB cables",
-        "PowerIQ and VoltageBoost technology",
-        "Compact and portable design"
-      ],
-      "pros": [
-        "Enormous battery capacity",
-        "Can charge multiple devices simultaneously",
-        "Fast charging capability",
-        "Durable construction",
-        "Reliable performance"
-      ],
-      "cons": [
-        "Heavier than smaller capacity options",
-        "Takes time to fully recharge",
-        "No USB-C input/output"
-      ],
-      "image": "images/powerbank-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B01JIWQPMW/ref=nosim?tag=kamphefner-20"
-    },
-    {
-      "id": "B07RLXZ3LS",
-      "name": "Kelty Cosmic 20 Sleeping Bag",
+      "id": "thermarest-neoair-xlite",
+      "name": "Therm-a-Rest NeoAir XLite Sleeping Pad",
       "category": "sleeping-gear",
-      "price": 169.95,
-      "rating": 4.3,
-      "description": "The Kelty Cosmic 20 is a comfortable, warm sleeping bag that's perfect for three-season camping and backpacking trips.",
-      "features": [
-        "20°F temperature rating",
-        "600 fill power DriDown insulation",
-        "Mummy shape for thermal efficiency",
-        "Draft collar and hood",
-        "Stuff sack included"
-      ],
-      "pros": [
-        "Excellent warmth-to-weight ratio",
-        "Water-resistant down fill",
-        "Comfortable fit",
-        "Compresses well for backpacking",
-        "Good value for the quality"
-      ],
-      "cons": [
-        "Slightly heavy for ultralight backpacking",
-        "Zipper can snag occasionally",
-        "May be too warm for summer camping"
-      ],
-      "image": "images/sleepingbag-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07RLXZ3LS/ref=nosim?tag=kamphefner-20"
-    },
-    {
-      "id": "B000IZCJDK",
-      "name": "Helinox Chair One",
-      "category": "camping-furniture",
-      "price": 109.95,
+      "price": 159.95,
       "rating": 4.7,
-      "description": "The Helinox Chair One is an ultralight, portable camping chair that offers exceptional comfort and durability in a compact package.",
+      "image": "/images/products/thermarest-neoair-xlite.jpg",
+      "description": "Ultralight, warm and comfortable sleeping pad for backpacking adventures.",
+      "affiliateLink": "https://www.amazon.com/Therm-Rest-Ultralight-Backpacking-Mountaineering/dp/B00PZL14EK?th=1&linkCode=ll1&tag=kamphefner-20&linkId=166ce052c8e93ea0d3dde5e11355c923&language=en_US&ref_=as_li_ss_tl",
       "features": [
-        "Weighs only 2 lbs",
-        "Supports up to 320 lbs",
-        "Sets up in seconds",
-        "Durable aluminum frame",
-        "Includes carrying case"
+        "Weighs only 12 oz",
+        "R-value of 4.2 for 4-season warmth",
+        "2.5 inches of cushioning",
+        "ThermaCapture technology reflects body heat",
+        "Triangular Core Matrix structure"
       ],
       "pros": [
-        "Incredibly lightweight and portable",
-        "Surprisingly comfortable for its size",
+        "Extremely lightweight",
+        "Excellent warmth-to-weight ratio",
+        "Comfortable cushioning",
+        "Packs down small",
+        "Durable materials"
+      ],
+      "cons": [
+        "Crinkly noise when moving",
+        "Expensive",
+        "Requires careful handling"
+      ]
+    },
+    {
+      "id": "core-9-person-cabin-tent",
+      "name": "CORE 9-Person Instant Cabin Tent",
+      "category": "tents",
+      "price": 199.99,
+      "rating": 4.6,
+      "image": "/images/products/core-9-person-cabin-tent.jpg",
+      "description": "Spacious cabin tent with room divider and 60-second setup for family camping.",
+      "affiliateLink": "https://www.amazon.com/CORE-9-Person-Instant-Cabin-Tent/dp/B00VFH1RQS?th=1&linkCode=ll1&tag=kamphefner-20&linkId=136630b1ed55d821b109c70cc358bddf&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "Fits 9 people or 2 queen air mattresses",
+        "60-second setup",
+        "Room divider for privacy",
+        "Adjustable ground vent",
+        "H2O Block Technology"
+      ],
+      "pros": [
         "Quick and easy setup",
-        "Durable construction",
-        "Versatile for camping, festivals, and beach trips"
+        "Spacious interior with 78\" center height",
+        "Good ventilation",
+        "Electrical cord access port",
+        "Includes rainfly for weather protection"
       ],
       "cons": [
-        "Premium price point",
-        "Sits low to the ground",
-        "Can sink in soft surfaces"
-      ],
-      "image": "images/chair-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B000IZCJDK/ref=nosim?tag=kamphefner-20"
+        "Heavy (35 lbs)",
+        "Large packed size",
+        "May need additional waterproofing"
+      ]
     },
     {
-      "id": "B08DG7ZZ8Z",
-      "name": "BioLite AlpenGlow 500",
-      "category": "lights-lanterns",
-      "price": 79.95,
-      "rating": 4.6,
-      "description": "The BioLite AlpenGlow 500 is a rechargeable lantern that provides 500 lumens of customizable lighting for your campsite.",
+      "id": "etekcity-led-camping-lantern",
+      "name": "Etekcity Portable LED Camping Lantern",
+      "category": "lighting",
+      "price": 29.99,
+      "rating": 4.7,
+      "image": "/images/products/etekcity-led-lantern.jpg",
+      "description": "Collapsible LED lanterns with military grade construction for camping and emergencies.",
+      "affiliateLink": "https://www.amazon.com/Etekcity-Portable-Camping-Lantern-Batteries/dp/B01C5QSENQ?linkCode=ll1&tag=kamphefner-20&linkId=2c916132deae3fe8d202b24e8e97ea96&language=en_US&ref_=as_li_ss_tl",
       "features": [
-        "500 lumens of adjustable light",
-        "Multiple lighting modes including warm-to-cool white and special effects",
-        "6400 mAh rechargeable battery",
-        "USB-C charging port",
-        "Water-resistant design"
+        "Pack of 4 lanterns",
+        "30 LED bulbs per lantern",
+        "Collapsible design",
+        "Military grade construction",
+        "Water resistant"
       ],
       "pros": [
-        "Versatile lighting options",
-        "Long battery life (up to 200 hours on low)",
-        "Can charge other devices",
-        "Durable construction",
-        "Intuitive controls"
-      ],
-      "cons": [
-        "Higher price than basic lanterns",
-        "Heavier than some alternatives",
-        "Charging cable not included"
-      ],
-      "image": "images/lantern-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B08DG7ZZ8Z/ref=nosim?tag=kamphefner-20"
-    },
-    {
-      "id": "B01G7SQCCS",
-      "name": "LifeStraw Personal Water Filter",
-      "category": "water-filtration",
-      "price": 19.95,
-      "rating": 4.8,
-      "description": "The LifeStraw Personal Water Filter allows you to drink directly from streams and lakes, removing 99.999999% of waterborne bacteria and parasites.",
-      "features": [
-        "Filters up to 1,000 gallons of water",
-        "Removes 99.999999% of waterborne bacteria and 99.999% of parasites",
-        "No batteries or moving parts required",
-        "Weighs only 2 ounces",
-        "BPA-free materials"
-      ],
-      "pros": [
+        "Bright illumination",
+        "Compact when collapsed",
         "Lightweight and portable",
-        "No chemicals or aftertaste",
-        "Long lifespan",
-        "Affordable price point",
-        "Essential emergency item"
+        "Long battery life",
+        "Durable construction"
       ],
       "cons": [
-        "Doesn't filter viruses",
-        "Requires strong suction",
-        "Doesn't store water"
-      ],
-      "image": "images/waterfiltration-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B01G7SQCCS/ref=nosim?tag=kamphefner-20"
+        "Batteries not rechargeable",
+        "Limited brightness settings",
+        "Not fully waterproof"
+      ]
     },
     {
-      "id": "B005188T90",
-      "name": "GSI Outdoors Pinnacle Camper Cookset",
-      "category": "camping-cookware",
-      "price": 149.95,
+      "id": "mpowerd-luci-color-essence",
+      "name": "MPOWERD Luci Color Essence Solar Light",
+      "category": "lighting",
+      "price": 24.95,
       "rating": 4.5,
-      "description": "The GSI Outdoors Pinnacle Camper Cookset is a comprehensive cooking solution for groups, featuring non-stick pots, pans, mugs, and plates in a compact package.",
+      "image": "/images/products/mpowerd-luci-color.jpg",
+      "description": "Inflatable solar light with 8 color options and no batteries needed.",
+      "affiliateLink": "https://www.amazon.com/MPOWERD-Luci-Color-Essence-Multi-Color/dp/B076JLYVCC?linkCode=ll1&tag=kamphefner-20&linkId=55ec1e1e1f514c2a914df6527445e385&language=en_US&ref_=as_li_ss_tl",
       "features": [
-        "Complete cookset for 4 people",
-        "Includes 2L pot, 3L pot, frying pan, strainer lid, 4 mugs, 4 plates, and 4 bowls",
-        "Teflon Radiance non-stick coating",
-        "Color-coded personal items",
-        "Nests together for compact storage"
+        "Solar powered - no batteries needed",
+        "8 vibrant color options",
+        "Inflatable and collapsible",
+        "Waterproof (IP67 rated)",
+        "10 hours of light on a single charge"
       ],
       "pros": [
-        "Comprehensive cooking solution",
-        "Excellent non-stick performance",
-        "Space-efficient design",
-        "Durable construction",
-        "Easy to clean"
+        "Eco-friendly solar charging",
+        "Fun color options",
+        "Lightweight and packable",
+        "Completely waterproof",
+        "No batteries to replace"
       ],
       "cons": [
-        "Premium price point",
-        "Plastic components may not be as durable",
-        "Heavier than minimalist options"
-      ],
-      "image": "images/cookware-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B005188T90/ref=nosim?tag=kamphefner-20"
+        "Requires sunlight to charge",
+        "Limited brightness",
+        "Inflation required before use"
+      ]
     },
     {
-      "id": "B07VFMGC93",
-      "name": "Nemo Stargaze Recliner Luxury Chair",
-      "category": "camping-furniture",
-      "price": 249.95,
+      "id": "consciot-led-camping-lantern",
+      "name": "Consciot Dimmable LED Camping Lantern",
+      "category": "lighting",
+      "price": 39.99,
       "rating": 4.6,
-      "description": "The Nemo Stargaze Recliner Luxury Chair is a first-of-its-kind swinging and reclining camp chair that offers unparalleled comfort at the campsite.",
+      "image": "/images/products/consciot-led-lantern.jpg",
+      "description": "Water-resistant rechargeable lantern with 360° illumination and power bank function.",
+      "affiliateLink": "https://www.amazon.com/Consciot-Dimmable-Water-Resistant-Flashlight-Emergency/dp/B082HD5JDH?linkCode=ll1&tag=kamphefner-20&linkId=46b5adf1bbec2a2a165c69b514befe97&language=en_US&ref_=as_li_ss_tl",
       "features": [
-        "Auto-reclining mechanism",
-        "Suspended swinging design",
-        "Aircraft-grade aluminum frame",
-        "Padded headrest and armrests",
-        "Integrated cup holder and stash pocket"
+        "360° illumination",
+        "USB rechargeable",
+        "Power bank function",
+        "Water resistant",
+        "4 lighting modes"
       ],
       "pros": [
-        "Unique swinging and reclining functionality",
-        "Exceptional comfort",
-        "Works on any terrain",
-        "Durable materials",
-        "Includes carrying case"
+        "Bright, adjustable lighting",
+        "Rechargeable battery",
+        "Can charge phones in emergencies",
+        "Durable construction",
+        "Long runtime"
       ],
       "cons": [
-        "Expensive compared to standard camp chairs",
-        "Heavier than ultralight options (6.5 lbs)",
-        "Setup requires some practice"
+        "Heavier than some options",
+        "Limited water resistance (not fully waterproof)",
+        "Charging time could be faster"
+      ]
+    },
+    {
+      "id": "coleman-6-person-evanston-tent",
+      "name": "Coleman 6-Person Evanston Camping Tent",
+      "category": "tents",
+      "price": 149.99,
+      "rating": 4.4,
+      "image": "/images/products/coleman-evanston-tent.jpg",
+      "description": "Spacious tent with screened porch area for bug-free lounging and storage.",
+      "affiliateLink": "https://www.amazon.com/Coleman-6-Person-Evanston-Camping-Screened/dp/B004E4AW1K?linkCode=ll1&tag=kamphefner-20&linkId=6c50add6457dddb3a6290a6e486ca4a5&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "Fits 6 people or 2 queen air mattresses",
+        "Screened porch area",
+        "WeatherTec system with welded floors",
+        "10 x 9 ft. main room with 5 x 4 ft. porch",
+        "15-minute setup"
       ],
-      "image": "images/recliner-product.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07VFMGC93/ref=nosim?tag=kamphefner-20"
+      "pros": [
+        "Screened porch for bug-free relaxing",
+        "Good ventilation",
+        "Reliable weather protection",
+        "Spacious interior",
+        "Reasonable price"
+      ],
+      "cons": [
+        "Porch floor not waterproof",
+        "Heavier than backpacking tents",
+        "Rainfly doesn't cover porch completely"
+      ]
+    },
+    {
+      "id": "coleman-skydome-4-person-tent",
+      "name": "Coleman Skydome 4-Person Tent",
+      "category": "tents",
+      "price": 99.99,
+      "rating": 4.5,
+      "image": "/images/products/coleman-skydome-tent.jpg",
+      "description": "Innovative tent design with 20% more headroom and quick 5-minute setup.",
+      "affiliateLink": "https://www.amazon.com/Coleman-Skydome-4-Person-Tent-Nights/dp/B0D7QG9H85?linkCode=ll1&tag=kamphefner-20&linkId=1ba0fd8a87c05f9a7b22f12929da70a8&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "Fits 4 people or 1 queen air mattress",
+        "5-minute setup",
+        "20% more headroom than traditional Coleman tents",
+        "WeatherTec system with welded corners",
+        "Storage pockets and gear loft"
+      ],
+      "pros": [
+        "More headroom than typical dome tents",
+        "Quick and easy setup",
+        "Good weather protection",
+        "Sturdy structure",
+        "Convenient storage options"
+      ],
+      "cons": [
+        "Limited vestibule space",
+        "Not for extreme weather",
+        "Rainfly could be more comprehensive"
+      ]
+    },
+    {
+      "id": "unp-6-person-dome-tent",
+      "name": "UNP 6-Person Dome Tent",
+      "category": "tents",
+      "price": 119.99,
+      "rating": 4.3,
+      "image": "/images/products/unp-dome-tent.jpg",
+      "description": "Lightweight, portable dome tent with excellent ventilation for family camping.",
+      "affiliateLink": "https://www.amazon.com/unp-Person-Grey-Lightweight-Portable-Dome-Waterproof-Ideal-Activities/dp/B08HH1YFHS?linkCode=ll1&tag=kamphefner-20&linkId=7be34b762a17ed689977f1cf154e2a95&language=en_US&ref_=as_li_ss_tl",
+      "features": [
+        "Fits 6 people",
+        "Mesh roof design for ventilation",
+        "Waterproof construction",
+        "Electrical cord port",
+        "Interior storage pockets"
+      ],
+      "pros": [
+        "Excellent ventilation",
+        "Relatively lightweight for size",
+        "Good value for money",
+        "Easy setup",
+        "Includes carry bag"
+      ],
+      "cons": [
+        "Less durable than premium brands",
+        "Limited color options",
+        "Stakes could be stronger"
+      ]
     }
   ]
 }
