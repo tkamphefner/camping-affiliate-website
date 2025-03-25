@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /js/data/
+
+Sitemap: https://camping-affiliate-hub.com/sitemap.xml

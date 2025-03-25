@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://camping-affiliate-hub.com/</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Main Pages -->
+  <url>
+    <loc>https://camping-affiliate-hub.com/about.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/contact.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/search.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Category Pages -->
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/category-pages/tents.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/category-pages/hiking-gear.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/category-pages/camping-furniture.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/category-pages/lights-lanterns.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/category-pages/water-filtration.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/category-pages/camping-cookware.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Product Pages -->
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/product-pages/coleman-sundome-tent.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/product-pages/biolite-alpenglow-500.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/product-pages/gsi-pinnacle-camper-cookset.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/product-pages/helinox-chair-one.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/product-pages/lifestraw-personal-water-filter.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://camping-affiliate-hub.com/pages/product-pages/nemo-stargaze-recliner.html</loc>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
