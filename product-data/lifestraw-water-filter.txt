@@ -1,23 +1,16 @@
 Product Name: LifeStraw Personal Water Filter
-Price: $11.99 (List Price: $19.95)
+Price: $11.99 (List: $19.95, 40% off)
 Rating: 4.8/5 (119,299 reviews)
-Affiliate Link: https://amzn.to/425RhBC
-Full Link: https://www.amazon.com/LifeStraw-Personal-Camping-Emergency-Preparedness/dp/B006QF3TW4/ref=nosim?tag=kamphefner-20
-Product ID: B006QF3TW4
-Category: camping-water-filters
+Category: Water Filters
+Features:
+- Filters up to 1,000 gallons (4,000 liters) of water
+- Removes 99.999999% of waterborne bacteria
+- Removes 99.999% of waterborne parasites
+- Removes microplastics, dirt, sand, and cloudiness
+- No batteries or moving parts required
+- Compact and lightweight design
+- Perfect for hiking, camping, travel, and emergency preparedness
 
-Description: Compact personal water filter for hiking, camping, travel, and emergency preparedness that removes bacteria and parasites from water sources
+Description: The LifeStraw Personal Water Filter is a compact and lightweight water filtration device designed for outdoor adventures and emergency situations. This innovative straw allows you to drink directly from natural water sources like streams, lakes, and rivers by effectively filtering out bacteria, parasites, microplastics, and other contaminants. With no batteries or moving parts required, it's an incredibly reliable tool that can filter up to 1,000 gallons of water. The LifeStraw is perfect for hikers, campers, travelers, and anyone preparing for emergencies, providing peace of mind and access to clean drinking water wherever you go.
 
-Key Features:
-- Microfiltration Membrane: Removes 99.999999% of waterborne bacteria and 99.999% of waterborne parasites
-- Microplastic Filtration: Removes the smallest microplastics found in the environment (down to 1 micron)
-- Long-Lasting: Filters up to 1,000 gallons (4,000 liters) of contaminated water without chemicals
-- Ultralight: Weighs only 2 ounces (57 grams) for easy carrying during outdoor activities
-- No Batteries Required: Works without electricity, batteries, or replacement parts
-- Immediate Use: No waiting time or complicated setup needed
-- BPA Free: Made from food-grade materials without BPA or other chemicals
-- Durable Construction: Withstands drops and rough handling in outdoor environments
-- Versatile Application: Perfect for hiking, camping, travel, and emergency preparedness
-- International Impact: For each LifeStraw product purchased, a school child in need receives safe drinking water for an entire school year
-
-The LifeStraw Personal Water Filter is an essential tool for outdoor enthusiasts and emergency preparedness. This compact, lightweight device allows you to drink directly from streams, lakes, or other freshwater sources without worrying about bacteria, parasites, or microplastics. Its simple straw design requires no pumping, batteries, or other accessories—just place it in water and drink. The LifeStraw's impressive filtration capacity of 1,000 gallons ensures long-term reliability for multiple adventures or emergency situations. Beyond its practical benefits, each purchase supports the company's humanitarian efforts to provide clean drinking water to children in developing countries. Whether you're an avid hiker, international traveler, or simply preparing for unexpected emergencies, the LifeStraw offers peace of mind and reliable access to safe drinking water wherever your adventures take you.
+Affiliate Link: https://amzn.to/43vxr54
